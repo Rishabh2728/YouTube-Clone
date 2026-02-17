@@ -9,7 +9,7 @@ function Navbar() {
           <span className={styles.icon}>☰</span>
         </button>
         <Link to="/" className={styles.brand}>
-          <span className={styles.logo}>YT</span>
+          <span className={styles.logo}>▶</span>
           <span className={styles.brandText}>YouTube</span>
         </Link>
       </div>
