@@ -6,7 +6,7 @@ function Navbar() {
     <header className={styles.navbar}>
       <div className={styles.left}>
         <button className={styles.iconButton} type="button" aria-label="Menu">
-          <span className={styles.icon}>|||</span>
+          <span className={styles.icon}>☰</span>
         </button>
         <Link to="/" className={styles.brand}>
           <span className={styles.logo}>YT</span>
