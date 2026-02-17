@@ -1,0 +1,9 @@
+.appShell {
+  min-height: 100vh;
+  background: #0F0F0F;
+  color: #f1f1f1;
+}
+
+.mainContent {
+  padding: 20px;
+}
